@@ -12,4 +12,4 @@
 </div>
 
 [![Hyunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunbin7303)](https://github.com/hyunbin7303/github-readme-stats)
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hyunbin7303/hyunbin7303/blob/output/github-contribution-grid-snake.svg)

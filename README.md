@@ -1,10 +1,4 @@
-# Hyunbin Park, Dotnet software Developer
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Hyunbin Park</h1>
+<h1 align="center">Hi 👋, I'm Hyunbin Park, Dotnet software Developer</h1>
 <h3 align="center">A passionate Software developer from South Korea(who is working in Canada)</h3>
 
 <div id="header" align="left">

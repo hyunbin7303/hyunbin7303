@@ -6,12 +6,9 @@
 </div>
 
 
+- 🌱 I’m interested in **DDD/CQRS/EventSourcing/SOLID with .NET, Angular, Python**
 
-- 🔭 I’m currently working on [HappYness Project](https://github.com/HappYness-Project/Happy-EventSourcing)
-
-- 🌱 I’m currently learning **Event sourcing and CQRS for dotnet, Rust and Python**
-
-- 💬 Ask me about **Dotnet**
+- 💬 Ask me about **.NET Tech**
 
 - 📫 How to reach me **hyunbin7303@gmail.com** <div id="badges">
   <a href="https://www.linkedin.com/in/hyunbin7303/">
